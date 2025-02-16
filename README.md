@@ -1,6 +1,6 @@
 To run the code, do these in order.
 
-1. Download all the files and put them in one directory under your htdocs folder.
+1. Download only sentinel.zip and extract it in one directory under your htdocs folder.
 2. Import the SQL given in your preferred DBMS.
 3. Upload the arduino file to your arduino with the setup given(refer to the documentation)
 4. Run export.py
