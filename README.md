@@ -9,3 +9,5 @@ To run the code, do these in order.
 7. The website will refresh itself every 30 seconds, updating the data according to the arduino sensors.
 8. Feel Free to use the AI analysis to run analysis for your data.
    
+Alternatively, you can use this link to run the website
+yayaproton.com(it's the only available domain I have)
